@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Live_Prototype-green)
 
-> **"Predicting gate congestion before the trucks arrive."**
+> **"Goal: Predicting gate congestion before the trucks arrive."**
 
 ### 🎯 The Problem
 The Port of Antwerp-Bruges faces a critical bottleneck: **Gate Surges**. When mega-vessels (like those docking at Deurganckdok) unload thousands of containers simultaneously, truck arrival patterns spike, causing massive traffic jams, delayed haulage, and increased emissions.
